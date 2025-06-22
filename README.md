@@ -142,4 +142,5 @@ For any questions or customization requests, please contact the developer or ref
 ---
 
 **Built with ❤️ for Shankar Stores**
-*Your trusted partner for all agricultural hardware and tools needs.* 
+*Your trusted partner for all agricultural hardware and tools needs.* # shankar-stores
+# shankar-stores

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://himanshupareek.github.io/shankar-stores/sitemap.xml 
